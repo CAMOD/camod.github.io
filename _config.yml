@@ -6,8 +6,6 @@ gems:
 # Site settings
 title: "카모의 영상커미션"
 description: > # this means to ignore newlines until "email:"
-   camo overwatch movie commission.
-
 email: camomonon@naver.com
 #blog logo
 logo: "/assets/images/logo.png"
