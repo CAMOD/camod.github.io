@@ -6,6 +6,8 @@ gems:
 # Site settings
 title: "카모의 영상커미션"
 description: > # this means to ignore newlines until "email:"
+   카모의 오버워치 매드무비 커미션입니다.
+
 email: camomonon@naver.com
 #blog logo
 logo: "/assets/images/logo.png"
@@ -18,7 +20,7 @@ name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	1
 
 url: "https://camod.github.io/" # the base hostname & protocol for your site
 baseurl: ""
